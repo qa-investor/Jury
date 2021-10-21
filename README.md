@@ -1,1 +1,1 @@
-->In Terminal, run the script using python
+->In Terminal, run the script using python and follow the instructions
