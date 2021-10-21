@@ -1,0 +1,1 @@
+->In Terminal, run the script using python
