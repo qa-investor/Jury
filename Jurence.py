@@ -104,10 +104,10 @@ try:
         time.sleep(1)
 
 except KeyboardInterrupt:
-    print("\nReady to make choice.")
+    print("\Make a choice.")
 
 while True:
-    choice = input("Please select a choice from above: ")
+    choice = input("Please select a choice from the above options: ")
     try:
         if active_wireless_networks[int(choice)]:
             break
