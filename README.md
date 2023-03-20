@@ -11,3 +11,4 @@ When an attack victim is chosen, it then sends deauthentication packets and ther
 2. Run it with python
 3. Follow the instructions
 
+ddddd
