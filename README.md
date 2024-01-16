@@ -1,4 +1,4 @@
-# DISCLAIMERs
+# DISCLAIMER
 The script is for educational purpose(s) only. Do not intrude any interface without prior permission from the network owner. I am not responsible for your actions.
 
 # ABOUT
